@@ -1,0 +1,4 @@
+
+myApp.controller('windowShows', ['$scope',
+
+}]);
