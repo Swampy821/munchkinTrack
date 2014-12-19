@@ -1,4 +1,5 @@
 
-myApp.controller('windowShows', ['$scope',
+myApp.controller('windowShows', ['$scope',function($scope) {
+
 
 }]);
